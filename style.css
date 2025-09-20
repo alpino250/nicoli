@@ -138,3 +138,23 @@ footer {
   text-align: center;
   font-size: 0.9rem;
 }
+.secret-img {
+  margin-top: 10px;
+  width: 250px;
+  border: 1px solid black; /* borda preta fina */
+  border-radius: 8px;
+}
+
+.secret-link {
+  display: inline-block;
+  margin-top: 8px;
+  color: #ff4d6d;
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.secret-link:hover {
+  text-decoration: underline;
+  color: #ff8099;
+}
