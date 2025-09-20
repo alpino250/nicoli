@@ -20,9 +20,10 @@ buttons.forEach(btn => {
 function checkPassword() {
   const input = document.getElementById('password').value;
   const message = document.getElementById('secret-message');
-  if (input === "0912") {
+  if (input === "1109") {
     message.style.display = "block";
   } else {
     alert("Senha incorreta!");
   }
 }
+
