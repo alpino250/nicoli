@@ -24,7 +24,7 @@ function checkPassword() {
 
     // conteúdo liberado
     message.innerHTML = `
-      <p>Hoje eu ia falar algo mais a sua cara, ou seja, alguma coisa que parecesse tão linda e perfeita quanto você, mas, eu acho que você já sabe isso né? <br> Pórem, eu vou te falar que você é a gostosa, sexy, sensual, linda, engraçada, tem um sorriso que faz eu me perder em todos meus pensamentos, olhos que prendem minha própria alma que eu trocaria facilmente por você e acima disso tudo,é a garota única e especial que eu sempre vou me importar e cuidar. ent vai e aproveita seu dia sua tarada sexy kkkkkkkk. <br> Como não pensei numa foto só pra por, fiz uma mini montagem minha e sua kkkkkk, espero que goste kkkkk
+      <p> Hoje, eu falei que eu ia montar uma coisa diferente, aquele alfabeto de elogios pra você, mas, vai ser diferente, seu alfabeto vai ser aquele link ali embaixo, só que não está pronto ainda, e quando estiver é só clicar lá. <br> Mas então, me diz, como você faz para ser tão linda assim? Fez um pacto na encruzilhada?? Ou será que é uma reencarnação da Amara? kkkkkk<br> Só para finalizar, saiba que você é linda coelhinha, e sempre vai ser, é uma joia rara que não tem nem como ser definida, afinal elas nem se comparam com a sua beleza
       </p>
 
       <img src="nini.jpg" alt="Foto secreta" class="secret-img">
@@ -40,3 +40,4 @@ function checkPassword() {
     message.innerHTML = "<p style='color:red;'>Senha incorreta! Tente novamente.</p>";
   }
 }
+
