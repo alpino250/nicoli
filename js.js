@@ -24,8 +24,7 @@ function checkPassword() {
 
     // conteúdo liberado
     message.innerHTML = `
-      <p> Hoje, eu falei que eu ia montar uma coisa diferente, aquele alfabeto de elogios pra você, mas, vai ser diferente, seu alfabeto vai ser aquele link ali embaixo, só que não está pronto ainda, e quando estiver é só clicar lá. <br> Mas então, me diz, como você faz para ser tão linda assim? Fez um pacto na encruzilhada?? Ou será que é uma reencarnação da Amara? kkkkkk<br> Só para finalizar, saiba que você é linda coelhinha, e sempre vai ser, é uma joia rara que não tem nem como ser definida, afinal elas nem se comparam com a sua beleza
-      </p>
+      <p> Bom nic, faz tempinho que não atualizo aqui e nem olho o que fazer, meio ocupado kkkk, mas o alfabeto ta tomando forma e espero que você goste kkkk. <br> Não sei quando vai olhar aqui, então até lá, eu espero que esteja gostando do nosso mini projeto de site kk</p>
 
       <img src="nini.jpg" alt="Foto secreta" class="secret-img">
 
@@ -40,4 +39,5 @@ function checkPassword() {
     message.innerHTML = "<p style='color:red;'>Senha incorreta! Tente novamente.</p>";
   }
 }
+
 
