@@ -24,7 +24,7 @@ function checkPassword() {
 
     // conteúdo liberado
     message.innerHTML = `
-      <p> Finalmente nic, está tudo pronto! eu espero que goste nic</p>
+      <p> Finalmente, está tudo pronto! eu espero que goste nic</p>
 
       <img src="nini.jpg" alt="Foto secreta" class="secret-img">
 
@@ -39,6 +39,7 @@ function checkPassword() {
     message.innerHTML = "<p style='color:red;'>Senha incorreta! Tente novamente.</p>";
   }
 }
+
 
 
 
