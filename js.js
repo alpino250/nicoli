@@ -26,8 +26,6 @@ function checkPassword() {
     message.innerHTML = `
       <p> .</p>
 
-      <img src="nini.jpg" alt="Foto secreta" class="secret-img">
-
       <p style="margin-top:10px;">
      https://alpino250.github.io/Fim/
         </a>   
@@ -38,6 +36,7 @@ function checkPassword() {
     message.innerHTML = "<p style='color:red;'>Senha incorreta! Tente novamente.</p>";
   }
 }
+
 
 
 
