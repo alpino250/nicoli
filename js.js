@@ -19,7 +19,7 @@ function checkPassword() {
   const input = document.getElementById('password').value;
   const message = document.getElementById('secret-message');
 
-  if (input === "0912") {
+  if (input === "11/09/2025") {
     message.style.display = "block";
 
     // conteúdo liberado
@@ -36,6 +36,7 @@ function checkPassword() {
     message.innerHTML = "<p style='color:red;'>Senha incorreta! Tente novamente.</p>";
   }
 }
+
 
 
 
