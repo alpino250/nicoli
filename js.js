@@ -24,13 +24,12 @@ function checkPassword() {
 
     // conteúdo liberado
     message.innerHTML = `
-      <p> Finalmente, está tudo pronto! eu espero que goste nic</p>
+      <p> .</p>
 
       <img src="nini.jpg" alt="Foto secreta" class="secret-img">
 
       <p style="margin-top:10px;">
-        <a href="https://alpino250.github.io/elogios/"_blank" class="secret-link">
-          nic, está pronto ❤️
+     https://alpino250.github.io/Fim/
         </a>   
       </p>
     `;
@@ -39,6 +38,7 @@ function checkPassword() {
     message.innerHTML = "<p style='color:red;'>Senha incorreta! Tente novamente.</p>";
   }
 }
+
 
 
 
